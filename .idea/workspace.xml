@@ -5,6 +5,11 @@
       <change afterPath="$PROJECT_DIR$/client/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/Fib.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/OtherPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/complex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/complex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
@@ -26,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/client/package.json" />
@@ -115,7 +120,7 @@
       <workItem from="1595428984452" duration="5793000" />
       <workItem from="1595567422643" duration="599000" />
       <workItem from="1595602593804" duration="363000" />
-      <workItem from="1595602974906" duration="9672000" />
+      <workItem from="1595602974906" duration="11055000" />
     </task>
     <servers />
   </component>
